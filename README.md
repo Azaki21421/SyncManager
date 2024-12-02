@@ -39,7 +39,7 @@ mkdir image_cache
 1. Запустите приложение:
 
 ```bash
-python main.py
+python app_bd.py
 ```
 2. Используйте вкладки для навигации по доступным ранобэ.
 
